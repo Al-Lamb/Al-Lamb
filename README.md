@@ -1,5 +1,7 @@
 ## Hello there 👋
 
+I'm a highly motivated and detail-oriented front-end developer with experience in React, Vite, and JavaScript. Skilled in data analysis, problem-solving, and creating engaging user experiences. Passionate about continuous learning and dedicated to contributing effectively to dynamic development teams.
+
 <!--
 **Al-Lamb/Al-Lamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
